@@ -1,0 +1,70 @@
+{
+            "Id": 85,
+            "nombre": "Rueda de ritmo y movimiento",
+            "descripcion": "Los actores forman un círculo; uno de ellos se coloca en el centro y realiza un movimiento cualquiera, por más insólito que sea, acompañado de un sonido; tanto el sonido como el movimiento obedecen a un ritmo que él mismo inventa. Todos los actores lo siguen, intentando reproducir exactamente sus movimientos y sonidos dentro del ritmo, lo más sincrónicamente posible. El actor desafía a otro, que se sitúa en el centro del círculo y lentamente rehace el movimiento y el sonido con otro ritmo, mientras el primer actor vuelve a la rueda. Todos ahora siguen al segundo actor, que desafía a un tercero y así sucesivamente. El que se coloca en el centro puede reproducir el ritmo corporal y musical que quiera, que más le guste, pero que no esté habituado a hacer en su vida real. No se trata de bailar o cantar algo que todos conocen. No se debe tener miedo al ridículo, a lo grotesco, a lo insólito. Si todos hiciesen el ridículo, nadie se sentiría ridículo... Todos deben intentar reproducir, lo más precisamente posible, lo que son capaces de ver y oír: los mismos movimientos, la misma voz, el mismo ritmo... Si hubiese una mujer en el centro, los hombres en el círculo no deben ejecutar la versión masculina de movimiento, sino reproducir exactamente lo que estén percibiendo. ¿Qué ocurre entonces? ¿Cuál es el mecanismo? Muy sencillo: al intentar imitar la manera de moverse, de cantar, etc., del otro comenzamos a deshacer nuestras propias mecanizaciones. Imitando a los otros, estaremos reestructurando de varias maneras diferentes (porque varios actores se situarán en el centro) nuestra propia manera de ser y de actuar. No se debe hacer una caricatura, porque nos llevaría a hacer cosas diferentes, pero siempre de la misma forma rígida. Debemos intentar comprender, sentir, reproduciendo exactamente lo externo para sentir mejor lo interior de la persona situada en el centro.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 84,
+            "nombre": "Juego de ritmo y movimiento",
+            "descripcion": "Se forman dos equipos. El primero, a una señal del director, comienza a hacer individualmente todos los tipos de sonidos y movimientos rítmicos que se le ocurran. Los componentes de ese grupo deben unificar en pocos segundos sus movimientos, ritmos y sonidos. El segundo grupo comienza entonces a reproducir los movimientos y ritmos del primero, a continuación los transforma en ritmos individuales, los reunifica, los pasa al otro grupo, y así sucesivamente.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 83,
+            "nombre": "Unificar el ritmo dentro del círculo",
+            "descripcion": "Todos los actores inician juntos un ritmo, con la voz, las manos y las piernas; después de unos minutos cambian lentamente, hasta que un ritmo nuevo se impone, y así sucesivamente, durante varios minutos. Variante Cada actor hace un ritmo aisladamente hasta que todos se unifiquen en un único ritmo. Variante A una señal dada, los actores comienzan a hacer un ritmo propio acompañado de un movimiento. Tras unos minutos, se acercan unos a otros, según sus afinidades rítmicas. Los actores con mayores afinidades van homogeneizando sus ritmos hasta que todo el elenco esté practicando el mismo ritmo y movimiento. Eso puede no ocurrir, pero no importa, siempre que cada grupo tenga su ritmo y movimiento bien definidos. Variante Se forma un círculo en el que una persona inicia un ritmo y todos lo siguen; el director hace una señal, el círculo se rompe, y cada participante intenta transformar ese ritmo en otro que le sea individualmente más agradable. El director hace hace otra señal y todos vuelven al círculo, pero ahora cada uno con su propio sonido y su propio movimiento: se observan e intentan unificar todos los ritmos en uno solo. Cuando eso ocurre, el director otra señal; se rompe el círculo, todos se alejan, individualizan sus ritmos, retornan al círculo y los reunifican.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 82,
+            "nombre": "Máquina de ritmos",
+            "descripcion": "Un actor va hasta el centro e imagina que es la pieza del engranaje de una máquina compleja. Hace un movimiento rítmico con su cuerpo y, al mismo tiempo, el sonido que esa pieza de la maquina debe producir. Los otros actores prestan atención, en circulo, alrededor de la máquina. Un segundo actor se levanta y, con su propio cuerpo, añade una segunda pieza al engranaje de esa máquina, con otro sonido y otro movimiento que sean complementarios y no idénticos. Un tercer actor hace lo mismo, y un cuarto, hasta que todo el grupo esté integrado en una misma Máquina, múltiple, compleja, armónica. Cuando todos estén integrados en la máquina, el director dice al primer actor que acelere el ritmo: todos deben intentar seguir ese cambio en el funcionamiento. Cuando la máquina esté próxima a la explosión, el director indica al primer actor que disminuya el ritmo hasta que todas las personas terminen juntas el ejercicio. Para que todo funcione bien, hace falta que cada actor intente realmente escuchar lo que está oyendo. Variante Amor y odio. El mismo ejercicio, con la siguiente modificación: todos los participantes deben imaginar una máquina de odio, después una de amor. Sea lo que fuere lo que cada uno entiende por las palabras odioy amor, deben seguir siendo parte del engranaje de una máquina y no de un ser humano. Variante Región o país. El mismo ejercicio que incluya, además de una emoción (o varias), un tema. Por ejemplo, regiones del mismo país del que son originarios los participantes: Alemania (máquina prusiana, bávara, berlinesa...); Francia (máquina bretona, parisiense, marsellesa, etc.); Brasil (máquina carioca, bahiana, mineira...); España (máquina aragonesa, madrileña, etc); o tomando como tema los partidos políticos: PP, PSOE, PNV, CIU, etc. O incluso forma de teatro y de cine: cine mudo, circo, ópera, novela, etc. Es extraordinario cómo pueden revelarse, en ritmo físico y sonoro, la ideología de un grupo, sus ideas políticas, etc. Todo lo que pensamos y criticamos aparece. Nota: este juego es particularmente útil cuando se quiere, por ejemplo, crear imágenes de un tema para que pierda su carácter abstracto: burocracia, futuro, infancia, salud, etc. Se pide a los participantes que representen las máquinas de ritmo de esos temas. Muchas veces los actores acabaron ayudándome a hacer la mise en scéne de una pieza usando ese juego.",
+            "etiquetas": ["Caldeamiento", "Ambos", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 80,
+            "nombre": "Ritmo en herradura",
+            "descripcion": "Los actores están sentados dispuestos en forma de herradura o media luna. La primera persona a la derecha debe comenzar un ritmo que debe extenderse por todos los participantes hasta el último, en la otra punta de la herradura. La persona que queda al final de la herradura debe iniciar otro ritmo, que hará el recorrido de vuelta. Cada participante estará siempre creando un ritmo, hasta que éste sea sustituido por el ritmo que llega de su izquierda o de su derecha.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 81,
+            "nombre": "Ritmo en círculo",
+            "descripcion": "Lo mismo que el anterior, en círculo, todos de pie, de tal manera que puedan trabajar los diferentes ritmos desde la primera hasta la última persona.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 79,
+            "nombre": "Fila de cinco actores",
+            "descripcion": "Similar al juego anterior. La primera persona de la fila hace un sonido y un gesto rítmicos, y los demás la imitan. La primera persona va al final de la fila, y la que estaba en segundo lugar pasa al primero, debiendo añadir un sonido y un gesto rítmicos a los que ya se están haciendo, y así sucesivamente, hasta que todos hayan hecho su contribución, volviendo su ejecución cada vez más compleja.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 78,
+            "nombre": "Anda, para, justifica",
+            "descripcion": "Los actores caminarán por la sala de manera extraña y estrambótica. De vez en cuando, el director dirá «¡Alto!» y pedirá a cada uno de los actores que justifique su manera de andar diciendo algo que tenga coherencia, por más absurdo que sea.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 77,
+            "nombre": "Bautizo «mineiro»",
+            "descripcion": "Actores en círculo; cada uno, en secuencia, da dos pasos adelante, dice su nombre, dice una palabra que comienza con la primera letra de su nombre y que corresponda a una característica que posee o cree poseer, haciendo un movimiento rítmico que corresponda a esa palabra. Los demás actores repiten dos veces: nombre, palabra y movimiento. Cuando hayan pasado todos, el primero vuelve, pero ahora en una posición neutra, y son los demás quienes deben acordarse de la palabra, nombre y gesto. Naturalmente, este ejercicio se hace con grupos que se encuentran por primera vez, y no con viejos amigos.",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+            "Id": 76,
+            "nombre": "Si dices que sí",
+            "descripcion": "Una melodía que permita al actor que conduce el ejercicio cantar una frase así: «Si yo digo que sí, tú dirás que no: sí, sí, no», a la vez todos deben responder «no, no, sí». «Si yo digo Juan, Luis, Juan, vosotros diréis [y los otros dicen] Luis, Juan, Luis»; y después utilizará las palabras «pan» y «miel». A continuación, diver- sas combinaciones de las tres palabras y de las otras tres: «Juan, miel, no» contra «Luis, pan, sí»...",
+            "etiquetas": ["Caldeamiento", "Inespecífico", "ejercicios y juegos de ritmo"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        }

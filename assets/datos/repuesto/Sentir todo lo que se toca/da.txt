@@ -1,0 +1,130 @@
+[{
+            "primeraserie": {
+                "Id": 117,
+                "nombre": "La cruz y el círculo",
+                "descripción": "Comienzo por el ejercicio teóricamente más fácil de hacer pero que, debido a las mecanizaciones psicológicas y físicas, se vuelve de difícil ejecución en la práctica. Como no hay necesidad de preparación, los no actores se entregan sin miedo; y si se les advierte que es casi imposible realizarlo bien, no tendrán miedo a conseguirlo y se sentirán libres para intentarlo. Se pide que hagan un círculo con la mano derecha, grande o pequeño, como puedan: es fácil, y todo el mundo lo hace. Se pide después que hagan una cruz con la mano izquierda: es aún más fácil y todos lo logran. Se pide entonces que hagan las dos cosas al mismo tiempo. Es casi imposible. En un grupo de unas treinta personas, a veces una lo logra. Difícilmente dos, y tres es un récord. También servirá cualquier figura diferente para cada mano, además del círculo y la cruz. Variante Se pide que hagan un círculo con el pie derecho, durante un minuto. Que olviden el pie y sigan haciendo el círculo. Después, que escriban sus nombres en el aire, con la mano derecha. Es casi imposible. El pie tiende a seguir a la mano y a escribir el mismo nombre también. Para facilitar el ejercicio, se intenta hacer un círculo con el pie izquierdo y escribir con la mano derecha. Es más fácil, y algunas personas a veces lo consiguen.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 116,
+                "nombre": "Hipnotismo colombiano",
+                "descripcion": "Un actor pone la mano a pocos centímetros de la cara del otro; éste, como hipnotizado, debe mantener la cara siempre a la misma distancia de la mano del hipnotizador, los dedos y el pelo, el mentón y la muñeca. El líder inicia una serie de movimientos con las manos, rectos y circulares, hacia arriba y hacia abajo, hacia los lados, haciendo que el compañero ejecute con el cuerpo todas las estructuras musculares posibles, con el fin de equilibrarse y mantener la misma distancia entre la cara y la mano. La mano hipnotizadora puede cambiar para hacer, por ejemplo, que el actor hipnotizado se vea obligado a pasar entre las piernas del hipnotizador. Las manos del hipnotizador no deben hacer nunca movimientos muy rápidos, que no puedan seguirse. El hipnotizador debe ayudar a su compañero a adoptar todas las posiciones ridículas, grotescas, no usuales: son precisamente éstas las que ayudan al actor a activar estructuras musculares poco usadas y a sentir mejor las más usuales. El actor utilizará ciertos músculos olvidados de su cuerpo. Al cabo de unos minutos, se intercambian los papeles de hipnotizador e hipnotizado. Pasados unos minutos más, los dos actores se hipnotizan mutuamente: ambos tienden la mano derecha, y cada uno obedece a la mano del otro.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 213,
+                "nombre": "Variante: Hipnosis con las dos manos.",
+                "descripcion": " El mismo ejercicio: Hipnotismo colombiano. Esta vez el actor dirige a dos de sus compañeros, a cada uno con una mano diferente. El líder no debe detener el movimiento de una mano ni de la otra. Este ejercicio le sirve a él también. Puede cruzar sus manos, obligar a un compañero a pasar por debajo del otro (sin tocarse). Cada cuerpo debe buscar su propio equilibrio, sin apoyarse en el otro. El líder no puede hacer movimientos muy bruscos; no es un enemigo, sino un aliado, aun cuando intente siempre desequilibrar a sus compañeros. Después, se cambia de líder, de manera que cada uno de los tres actores pueda experimentar la función de hipnotizador. Al cabo de unos minutos, los tres actores, en triángulo, se hipnotizan unos a otros, tendiendo, a su derecha, su mano derecha, y obedeciendo a la mano derecha del otro, que se aproxima por la izquierda. Variante .Hipnotismo con las manos y los pies. Como los anteriores, pero con cuatro actores, uno para cada pie y cada mano del líder. Éste puede hacer cualquier movimiento, incluso bailar, cruzar los brazos, dar vueltas con el cuerpo por el suelo, saltar, etc., pero siempre en cámara lenta. Los actores que siguen los pies deben fijar su atención sólo en el dedo gordo.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 214,
+                "nombre": "Variante :Con cualquier parte del cuerpo.",
+                "descripcion": "En esta variante: Hipnotismo colombiano, un actor va al centro y comienza a mover todo el cuerpo, mirando siempre en una sola dirección; los otros hacen un círculo a su alrededor. Un primer voluntario se acerca y se deja hipnotizar por una parte del cuerpo del líder (el actor en el centro); a continuación, debe seguir todos los movimientos de esa parte del cuerpo, oreja, nariz, espaldas, nalgas, no importa cuál. Un segundo actor se acerca y hace lo mismo, pudiendo elegir cualquier parte del cuerpo de uno o de otro de los que ya están en escena. El tercer actor elige una parte del cuerpo de los que están en el medio, hasta que todos los actores se dejen hipnotizar por los cuerpos de los otros. Entonces, el primer actor puede dar una o más vueltas con su cuerpo, lentamente, porque sus movimientos adquirirán bastante relieve cuando los repita el grupo, dada su distancia en relación con el centro del círculo. A continuación, si el espacio es suficientemente grande, puede indicarse que todos se alejen de (o se acerquen a) la parte del cuerpo que los está hipnotizando.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 115,
+                "nombre": "La menor superficie",
+                "descripcion": "Cada actor estudia todas las posturas que permitan a su cuerpo tocar lo menos posible el suelo, usando todas las variaciones posibles. Los pies y las manos, un pie y una mano sobre el rostro, la caja torácica, espaldas, nalgas. Es necesario que, en un momento u otro, toda la superficie del cuerpo toque el suelo. El paso de una postura a otra debe hacerse muy lentamente, con el fin de estimular todos los músculos que intervienen en la transición y permitir que el actor se observe. El actor debe sentir la fuerza de la gravedad que lo arrastra hacia el suelo, sentir que se trata de una lucha entre su fuerza muscular y la gravedad, mediada por el peso de su cuerpo. Los movimientos que hacemos cada día acaban mecanizando nuestros cuerpos; en este caso tratamos de desmecanizarlos, desestructurarlos, desmontarlos. Al cabo de unos minutos, se pide a los actores que formen parejas. Cada uno debe tocar el cuerpo del otro en la menor superficie posible y tocar el suelo también lo menos posible. Cada uno debe equilibrar al otro. Los dos cuerpos deben moverse lentamente, sin interrupción, intentando descubrir cada vez una nueva posición, una nueva figura que ha de modificarse continuamente. Después, se pide a los actores que formen grupos de cuatro, tal vez de ocho, tal vez un único grupo que los incluya a todos. Si se puede, es mucho mejor trabajar sobre el césped o sobre una superficie blanda. En este ejercicio, como en todos los demás ejercicios físicos de comunicación muscular, está absolutamente prohibido hablar; la comunicación en este caso es sólo muscular o visual, nunca verbal. Hablar, aun en voz baja, obliga a los actores a prestar atención a las palabras y no a las imágenes ni a los contactos. No hace falta realizar proezas, ser heroico, ni intentar ser mejor que los demás, nada de riesgos. Dentro de lo que cabe, habrá que hacer lo que sea posible hacer, sin obligar a nadie a nada, sin forzar.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 114,
+                "nombre": "Empujarse",
+                "descripcion": "Este es un ejercicio muy importante, sobre todo porque muestra físicamente lo que debe ser la acción mayéutica1 del actor durante una sesión de Teatro Foro. Mayéutica: proceso socrático que consiste en ayudar a una persona a exponer conscientemente concepciones latentes en su mente a través de preguntas y sin que el filósofo ofrezca ni imponga conceptos preexistentes. En este sentido, el Teatro del Oprimido es mayéutico, porque a través de preguntas se produce e aprendizaje entre los espectadores y los actores. (N. del A.) Se trata de utilizar todas nuestras fuerzas y, aun así, no lograr vencer. Debe practicarse en parejas que tengan más o menos el mismo peso y la misma fuerza. Como en una sesión de Teatro Foro, los actores deben utilizar todos sus conocimientos, pero no agobiar a los espect-actores, sino estimularlos a que inventen, creen, descubran. Los actores, en pareja, uno frente al otro, se sujetan por los hombros. Hay que imaginarse una línea en el suelo. Comienzan a empujarse con todas sus fuerzas, y cuando uno siente que su adversario es más débil, disminuye su propio esfuerzo para no traspasar la línea, para no ser el vencedor. Si el otro aumenta su fuerza, el primero hará lo mismo, y los dos utilizarán juntos toda la fuerza de que sean capaces. A continuación se hace lo mismo con dos actores, espalda contra espalda. Después, culo contra culo. Luego, baile de espaldas: dos actores se ponen de espaldas y bailan sin música. Hace falta que cada uno intente comprender al otro, las intenciones de sus movimientos. Columpio. Frente afrente, sentados en el suelo. Los actores se sujetan por los brazos. Con las manos solamente resultaría más difícil. Se sostienen con los pies firmemente apoyados en el suelo, muy cerca, pero no uno contra otro. A continuación, uno sube y otro baja; cuando el segundo comienza a subir, el primero baja, como en un verdadero columpio. Pueden formarse también grupos de cuatro, en los que cada uno a su turno sube mientras los otros retroceden. Y, finalmente, a una señal del director, suben los cuatro de una vez.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 113,
+                "nombre": "Dominguillo",
+                "descripcion": "Se pide al grupo que forme un círculo, todos de pie mirando al centro. Después, que se inclinen en dirección al centro sin doblar la cintura, encorvarse ni levantar los talones, como la Torre de Pisa. A continuación, que se inclinen hacia fuera. Que hagan lo mismo hacia la izquierda, hacia la derecha, siempre sin doblar la cintura ni levantar los pies. Que dibujen un círculo en el espacio con sus cuerpos, que se inclinen hacia delante, hacia la izquierda, hacia atrás, hacia la derecha, hacia el centro; luego lo mismo pero al contrario, centro, derecha, atrás, izquierda delante, y así varias veces. Un voluntario va al centro, cierra los ojos y hace lo mismo, sólo que esta vez se deja caer; todos los demás deben sostenerlo con las manos, permitiéndole inclinarse hasta muy cerca del suelo. A continuación deben volver a situarlo nuevamente en el centro, pero él caerá en otra dirección, siendo sujetado siempre por tres compañeros, por lo menos. Al final, los compañeros pueden ayudar al protagonista con las manos a girar en círculo, en vez de llevarlo de nuevo hacia el centro. Variante Dos personas solamente y una tercera en el medio que se deje caer hacia delante y hacia atrás, siendo sostenida por los dos compañeros.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 112,
+                "nombre": "Círculo de nudos",
+                "descripcion": "Como preparación, se hace la rueda elástica. Los actores se dan las manos, formando una rueda. Después se alejan hasta que ya no llegan a tocarse, salvo con los dedos, aunque sus cuerpos siguen alejándose lo más posible. Después de cierto tiempo, hacen lo opuesto y se juntan en el centro, ocupando el menor espacio posible. Esa rueda puede combinarse con un ejercicio de voz. Los actores emiten sonidos que expresan su deseo de tocarse alejándose y después el deseo de alejarse mientras se están tocando. Se rehace el círculo, todos cogidos de la mano; no se debe cambiar la manera de cogerse de la mano durante todo el ejercicio. Uno de los actores comienza a andar, tirando de los demás (siempre lentamente, sin brusquedad) y pasando por encima y por debajo de las manos de los compañeros que tiene delante, como para hacer un nudo; a continuación, un segundo actor hace lo mismo, formando otro nudo, después otro, y otros dos o tres, al mismo tiempo, por encima y por debajo, hasta que todos hagan todos los nudos posibles y que nadie pueda ya moverse. Muy lentamente, sin violencia, en silencio, intentarán volver a la posición original. Variante Se hace lo mismo con los ojos cerrados. En este caso, es necesario hacer todo muy lentamente, para evitar choques. Variante Una línea, en vez de un círculo: es la variante llamada bramante. Variante Los actores se juntan en un bloque, levantan los brazos, todos juntos, se dan las manos, y cada uno aprieta las manos de otros dos; a continuación, se separan e intentan formar un círculo sin soltar en ningún momento las manos ni cambiar sus manos de posición al coger las de los demás.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 215,
+                "nombre": "El círculo griego: el actor como sujeto",
+                "descripcion": "Un actor, en el centro, comienza un movimiento, y todos los demás a su alrededor deben ayudar para que lo haga. Ejemplo: él levanta un pie, alguien le coloca su propia rodilla bajo el pie para que suba. El protagonista hace lo que quiere y los demás lo ayudan a levantarse, girar, estirarse, subir, escalar, etc. El protagonista debe moverse lentamente, para permitir que los demás tengan tiempo de descubrir sus intenciones con sólo mirarlo. Para descubrirlas mejor, los actores deben tocar cualquier parte del cuerpo del protagonista y traducir los mensajes musculares. No se debe manipular al protagonista: a él le toca decidir sus propios movimientos. Si es posible, pueden formarse dos o más grupos simultáneos; en ese caso, los protagonistas pueden cambiar de grupo pero no los grupos de protagonista: los protagonistas son siempre los sujetos. El ejercicio termina cuando el protagonista vuelve suavemente al suelo. Una vez, en Italia, dije «Alto», y los actores dejaron caer al protagonista. Eso nunca debe suceder.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 216,
+                "nombre": "El actor objeto",
+                "descripcion": "Hay dos maneras de comenzar este ejercicio: El protagonista sube a una mesa y se deja caer de espaldas sobre ocho actores dispuestos en dos filas de cuatro, frente a frente, con los brazos extendidos, sujetando, con las manos bien abiertas, el antebrazo del compañero que está delante, dispuestos a sostener el peso, sin olvidar de quitarse antes pulseras, relojes, anillos, etc. El actor corre, se arroja en los brazos de los ocho actores. Antes de saltar, grita; al oír el grito, los actores extienden sus brazos y se sujetan frente a frente, formando una red. En los dos casos, el actor se queda echado sobre cuatro pares de brazos que lo sujetan. En ese momento, un actor sujeta sus brazos y otro sus pies; lanzan al protagonista al aire tres veces, con los brazos extendidos; con el protagonista vuelto hacia el suelo (es peligroso estar con el estómago hacia arriba), los otros ocho actores lo impulsan hacia arriba, se arrodillan y lo reciben abajo. Después de eso, lo tumban en el suelo y todos, al mismo tiempo, comienzan a hacerle un masaje uniforme, con las dos manos, hacia la derecha y hacia la izquierda, de tal manera que todo el cuerpo del protagonista sea tocado con la misma intensidad (ni cariño ni agresión). A continuación, lo colocan de espaldas y repiten el mismo masaje. El actor que está junto a su cabeza, lo masajea en las orejas, la nariz, el cuello, el pelo. El que está a sus pies, los pies. Durante el ejercicio, los actores deben emitir un sonido uniforme como el masaje.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 217,
+                "nombre": "Levantar a alguien de una silla",
+                "descripcion": " Un actor se sienta en una silla, otros intentan sujetar su cuerpo contra ella, haciendo uso de todas sus fuerzas, y él intenta levantarse. En determinado momento, el director grita «¡Alto!» y todos, al mismo tiempo, invierten el movimiento y lo lanzan al aire. Variante Lo mismo con un brazo apretado contra una mesa: al soltarlo, tiende a levantarse solo.",
+                "etiquetas": ["Primera serie: Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 111,
+                "nombre": "Equilibrio del cuerpo con objetos",
+                "descripcion": "Se coge un objeto cualquiera, un lápiz, una pelota, una silla, un libro, una mesa, una cartera, un pedazo de papel, un sello postal, un cartel, un teléfono, cualquier cosa. Se buscan todas las posiciones y estructuras corporales en las que se pueda equilibrar ese objeto, usando todas las relaciones posibles entre el cuerpo y el objeto: cerca del cuerpo, a distancia, encima o debajo. Lo importante es estudiar la relación cuerpo- objeto-gravedad. Se pueden usar las manos, pero sólo lo indispensable. Después de unos minutos, el director dará la señal para que los actores cambien de objetos sin usar las manos; unos minutos más, nuevo cambio; luego, el director pide que los actores recuperen sus objetos iniciales y cada uno busca el suyo, dando el objeto que lleva consigo al actor que tiene el suyo, hasta que el último actor haya recuperado su objeto. Siempre con el cuerpo en cámara lenta, los actores vuelven a poner los objetos en sus lugares originales.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 110,
+                "nombre": "Globo como prolongación del cuerpo",
+                "descripcion": "El director lanza dos, tres, muchos globos a los actores, que deben mantenerlos en alto, tocándolos con cualquier parte de sus cuerpos, como si éstos formasen parte de los globos que están tocando; deben llenarse de aire e intentar flotar como si fuesen globos.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 109,
+                "nombre": "Carrera de silla",
+                "descripcion": "En fila, cinco o más actores suben cada uno a una silla. La primera silla de la fila se deja vacía. Cada actor pasa a la silla que está delante y deja vacía la última. Entonces, con las manos, pasan la última silla, la que está vacía, al primer lugar y avanzan  una vez más otra silla, dando nuevamente un paso hacia delante y repitiendo todo el proceso... y así sucesivamente, poniendo toda la fila en movimiento.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 108,
+                "nombre": "Ritmo con sillas",
+                "descripcion": "Cinco actores, cada uno con una silla, deben crear una imagen con esta y su propio cuerpo. El líder numerará las imágenes: 1, 2, 3, 4, 5. A continuación dirá un número o una secuencia de números, rítmicamente, y los participantes deberán adoptar la posición correspondiente a ese número. Variante El mismo ejercicio sin sillas. Los actores usarán solamente sus propios cuerpos. En la versión Hamlet, los actores deberán formar imágenes de escenas de los personajes de esa (o de cualquier otra obra).",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 107,
+                "nombre": "Baile de sillas",
+                "descripcion": "Es un juego de niños muy conocido. Un círculo formado por sillas vueltas hacia fuera, teniendo siempre una menos que el número de participantes. Los actores cantan y bailan una música conocida, andando alrededor de las sillas. Cuando el director grita «¡alto!», todos deberán sentarse. El que queda de pie abandona el juego, y se retira una silla. El juego prosigue hasta que el último jugador se siente en la última silla.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 106,
+                "nombre": "Movimiento premeditado",
+                "descripcion": "Los actores se mueven con premeditación, separando claramente el momento en el que se premedita y el movimiento del momento en el que se ejecuta, como si no pudiesen ser simultáneos. Esos movimientos deben hacerse en todas las direcciones, en todos los niveles, sobre mesas, sillas, en el suelo, escaleras, de manera ordenada o desordenada, caótica, de pie, tumbados, inclinados, a cuatro patas, pero siempre de una forma premeditada y dividida: pienso lo que voy a hacer y después lo hago. Lo importante es reflexionar sobre el propio cuerpo, los músculos, las estructuras musculares. Así, todos los movimientos serán planeados.",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 105,
+                "nombre": "Dificultad en relación con los cuerpos y los objetos",
+                "descripcion": "Estamos acostumbrados a hacer movimientos mecanizados inconscientemente. No obstante, todo podría cambiar si se produjese una mínima alteración con nuestros cuerpos o con los objetos. Si, por ejemplo, un actor tiene una mano en la espalda, ¿cómo podrá poner la mesa? Si tiene sólo un ojo (el otro tapado) o una pierna (la otra atada); si no puede ir hacia delante o sólo puede ir hacia atrás o andar hacia los lados; si sus dedos están entumecidos, ¿cómo podrá vestirse o acariciar a alguien? Todas las transformaciones físicas provocan el aumento inmediato de la sensibilidad. Dividir el movimiento Se divide en partes un movimiento continuo (andar, por ejemplo) : primero una pierna, pausa; después el brazo, pausa; la otra pierna, pausa... y así sucesivamente. No coordinación de movimientos coordinados. La coordinación de movimientos endurece los músculos y determina la máscara física. En este ejercicio, el actor estudia sus movimientos y deja de coordinarlos: los brazos separados de las piernas al andar; una pierna con un ritmo diferente del de la otra; una mano gesticulando lo contrario de la otra; la mano no coordinada con la boca que se abre para recibir los alimentos; el dedo que se levanta antes de que se abra la boca para pronunciar un discurso; los brazos haciendo el movimiento de equilibrar las piernas que se cruzan, pero no al mismo tiempo, etc. Primero se puede realizar una acción cualquiera y después repetirla con los movimientos no coordinados. Círculo máximo y círculo mínimo Los actores se dan las manos en círculo e intentan hacer que ocupe el mayor espacio posible, después el menor, el mayor, el menor... ..........",
+                "etiquetas": ["Caldeamiento", "Inespecífico", "Ejercicios generales"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            }
+        }
+
+    }

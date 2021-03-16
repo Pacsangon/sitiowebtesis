@@ -1,0 +1,16 @@
+{
+		"Id": 72,
+		"nombre": "Sonido y movimiento",
+		"descripcion": "Un grupo de actores emite con la voz un sonido determinado (que puede ser de animales, follaje, calle, fábrica), mientras otro grupo hace movimientos relacionados con dicho sonido, como si equivaliesen a su visualización. Es decir, si el sonido elegido por el primer grupo es «miau», la imagen no será necesariamente la de un gato, sino la visualización que el segundo grupo de actores tenga de ese sonido especial. A un bosque de sonidos corresponderá un bosque de imágenes. A una secuencia ritual de sonidos, una secuencia ritual de imágenes.",
+		"etiquetas": ["Caldeamiento", "Inespecífico"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal",
+		"ejerciciosrelacionados": ["Sonido y movimiento", "Sonidos rituales"]
+	},
+	{
+		"Id": 73,
+		"nombre": "Sonidos rituales",
+		"descripcion": "El mismo ejercicio de sonido y movimiento, pero esta vez los actores que hacen los sonidos se limitarán a los sonidos de un ritual en particular, despertarse por la mañana o ir a casa, volver del trabajo, de la fábrica, etc. ",
+		"etiquetas": ["Caldeamiento", "Inespecífico"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal",
+		"ejerciciosrelacionados": ["Sonido y movimiento", "Sonidos rituales"]
+	}

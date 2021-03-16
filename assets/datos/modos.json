@@ -1,0 +1,65 @@
+[{
+    "Id": 203,
+    "nombre": "Improvisación",
+    "descripcion": "propone una escena sacada de su vida real- cuenta al grupo una historia o una situación en la que se siente oprimido o incómodo y que desea comprender. A continuación, los participantes hacen preguntas que les permitirán sentir la situación expuesta. El protagonista elige entre los participantes a aquellos que van a representar los personajes... indicará las características de cada personaje y explicará lo que quiere del antagonista y lo que supone que éste quiere de cualquier otro. La voluntad es esencial: sin ella, no existe ningún personaje. El teatro es un conflicto de voluntades, conscientes de los medios que utilizan para conseguir sus objetivos. El personaje es Verbo, es «quiero», es acción... En su narración, el protagonista contará la historia desde el comienzo de la escena, con la acción que desemboca en la crisis, y la crisis hasta el desenlace... describe el lugar donde tuvo lugar la escena... hay que precisar en qué habitación de esa casa, en qué lugar de trabajo, en qué zona de esa calle, en qué mesa de aquel restaurante, en qué rincón del barrio, etc. Cuantas más precisiones se den, más se estimulará a los participantes a dar rienda suelta a su creatividad. Estos elementos son intrínsecos a la escena; no se trata de construir decorados suntuosos sino de poblar la escena con objetos significantes. «¡Monólogo!», y durante unos dos minutos cada actor deberá expresar, en voz alta, la secuencia de pensamientos de su personaje; se prohíbe el silencio, hay que hablar todo el tiempo, aunque se repitan ideas. Este monólogo es necesario no sólo para que los actores se calienten (nunca deberían salir a escena «fríos») sino para que puedan profundizar en el conocimiento de sus respectivos personajes. Una vez comenzada, el protagonista' no puede interrumpir la improvisación con el pretexto de que «eso no sucedió realmente así»... Una improvisación sucede siempre aquí y ahora y es ese aquí y ahora, que se desarrolla ante nosotros, el que vamos a estudiar. La acción presente y no la del pasado.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  },
+  {
+    "Id": 204,
+    "nombre": "Romper la opresión",
+    "descripcion": "La experiencia demuestra que, por el hecho de contar una historia verdadera, que ha vivido, el protagonista desvela ya su deseo de revivirla, de transformarla, de examinar alternativas. Por consiguiente, hay que pedirle que muestre lo que debería haber hecho por segunda vez, o su deseo de hacer algo diferente de lo que hizo, como si estuviéramos ya en pleno teatro-foro. Al empezar una improvisación, es necesario que tengamos un sentimiento bastante fuerte de que el protagonista tiene posibilidades serias de ensayar alternativas a su opresión actual. Si, por el contrario, su debilidad, su ignorancia o la extrema disparidad de las fuerzas enfrentadas lo condenan al fracaso inexorablemente, no hay que ser masoquista, es preferible esperar a otro momento... Si, por el contrario, su debilidad, su ignorancia o la extrema disparidad de las fuerzas enfrentadas lo condenan al fracaso inexorablemente, no hay que ser masoquista, es preferible esperar a otro momento.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  },
+  {
+    "Id": 205,
+    "nombre": "para y piensa",
+    "descripcion": "es sencillo: en cuanto la improvisación se pone en marcha, el director dice «¡Stop!' cada vez que sospecha que un gesto o una pausa, una frase o mirada hacen referencia  a pensamientos y sentimientos no revelados, ocultos por la rapidez del diálogo y las acciones. Los actores se congelan. Si uno de ello está andando y tiene un pie en el aire, deberá dejarlo en el aire y no ponerlo en el suelo. Si otro tiende la mano hacia un tercero, sus manos no deberán tocarse, quedando la palma tendida hacia el otro. Si el «¡Stop!» sorprende a un actor mirando lo que no quisiera ver, deberá asumir esa mirada. Entonces el director dirá: «¡Piensa!». Inmóviles, y sin ningún tipo de censura o autocensura, deberán hablar todos a la vez, transformar en palabras todo lo que les pase por la cabeza y todos los sentimientos que pasen por su corazón. Sin censura o autocensura, deberán dejar que el cuerpo piense; que piense en su posición en el espacio y respecto de los demás personajes y objetos. Después de un tiempo, el director dirá «¡Acción!», y los actores retomarán la improvisación donde la habían dejado, como si no hubiera pasado nada. Durante la ausencia de movimiento, los pensamientos escondidos tendrán ocasión de expresarse. Descubriremos cosas que estaban a punto de desvelarse, en las que pensábamos sin tener conciencia de ellas y que, sin embargo, eran pensamientos, sensaciones y emociones capaces de producir efectos buenos o malos. Este modo nos ayuda a hacer consciente, a verbalizar y transmitir, a hacer comprensible lo oculto o lo diluido.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  },
+  {
+    "Id": 206,
+    "nombre": "Delicado y suave: lento y bajo",
+    "descripcion": "A veces, una escena se vuelve demasiado intensa. En ese caso, los actores que la interpretan tienden a ser menos creativos, a gastar su energía en gritos, crispando y tensando los músculos. Es aconsejable que el director proponga el modo «delicado y suave»: los actores hablan lo más bajo posible, con voz apenas audible. Los movimientos se ralentizan. Hablando tan bajo y moviéndose tan lentamente, los actores amplifican su poder de auto-observación, se convierten en espectadores atentos de sí mismos y de sus acciones: cada gesto se magnifica y, en el tono de un secreto que confiamos a alguien, las palabras revelan sus verdaderos contenidos.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 207,
+    "nombre": "Foro relámpago",
+    "descripcion": "...interrumpir la escena y proponer una alternativa... proporcionar al protagonista una amplia paleta de posibilidades... consiste en una sucesión rápida de intervenciones. Los participantes pasan a escena sucesivamente, ocupando por turnos el lugar del protagonista. Cada uno dispondrá de un minuto para experimentar, de manera condensada pero intensa, su alternativa. Cada nuevo participante retomará la acción en el punto en el que estaba.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 208,
+    "nombre": "Ágora",
+    "descripcion": "e trata de hacer salir de escena al protagonista y pedir a los demás personajes -a los que encarnen sus deseos- que dialoguen entre sí. El modo «Ágora» puede utilizarse igualmente cuando existan varios antagonistas. En ese caso, el protagonista queda excluido y serán los antagonistas quienes entren en conflicto entre sí, abriendo nuevas posibilidades.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 209,
+    "nombre": "Feria",
+    "descripcion": "Se desarrollan varias improvisaciones de manera simultánea, permitiendo a los actores concentrarse exclusivamente en aquella en la que están participando. ...quiere decir que dirigimos nuestra atención y nuestra percepción hacia lo que nos interesa con lo cual establecemos una relación intensa, excluyendo completamente los demás estímulos periféricos.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 210,
+    "nombre": "Los tres deseos",
+    "descripcion": "...construya una imagen fija, utilizando el cuerpo de los actores y algunos objetos necesarios, y mostrando claramente lo que lo inquieta u oprime. ...concede al protagonista el derecho a realizar tres deseos, y dirá: «¡Primer deseo!», y diez segundos después: «¡Stop!». Y así sucesivamente, por tres veces. El protagonista tendrá derecho a modificar la imagen con cada deseo, como un escultor, sin que los actores intervengan o se resistan. Manipulando la imagen, el protagonista hace visibles esos deseos; modificándola físicamente, se modifica a sí mismo. A veces, tras una primera serie, propongo al protagonista que realice tres deseos más, y después otros tres.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 211,
+    "nombre": "Para los sordos",
+    "descripcion": "Esta técnica resulta especialmente útil cuando una escena descansa demasiado en las palabras, a expensas de la acción o del lenguaje del cuerpo. En ese caso, da la impresión de que estamos haciendo radio ¡y no teatro! Los actores reanudan la improvisación, intentado esta vez hacerla comprensible para espectadores sordos. Los gestos se hacen más significativos, más densos, más fuertes. Sin la ayuda de las palabras, los actores deberán hacer comprensible con sus cuerpos, con sus movimientos físicos, a través de sus sentidos y de los nuestros, lo que antes se traducía en palabras. Cuando no podemos utilizar la palabra, nuestros cuerpos hablan más alto.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }, {
+    "Id": 212,
+    "nombre": "Desfase",
+    "descripcion": "Este modo consiste en separar el monólogo interior del diálogo exterior y del deseo en acción. En un primer momento, se trata de pedir a los actores que están dentro de la imagen que expresen durante unos minutos los pensamientos que les vengan, manteniendo la imagen inmóvil y rígida. En un segundo tiempo, se les pedirá que dialoguen lo más posible, permaneciendo siempre inmóviles. Finalmente, en un tercer tiempo, tendrán que intentar mostrar sus deseos a través de una acción física muda, convirtiéndolos así en realidad: la imagen en movimiento.",
+    "etiquetas": ["Modo básico"],
+    "referencia": "El ArcoIris del Deseo, Augusto Boal"
+  }
+]

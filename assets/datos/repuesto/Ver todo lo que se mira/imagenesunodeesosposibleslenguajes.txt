@@ -1,0 +1,49 @@
+{
+                    "Id": 17,
+                    "nombre": "Completar la imagen",
+                    "descripcion": "Dos actores se saludan, estrechándose las manos. Se inmoviliza la imagen. Se pide al grupo que diga cuáles son los posibles significados que la imagen puede tener: ¿es una reunión de negocios, dos amantes despidiéndose para siempre, dos traficante de drogas negociando, etc.? Se exploran varias posibilidades. Las imágenes son polisémicas, y sus significados dependen no sólo de sí mismas sino también de los observadores. Uno de los actores de la pareja sale, y el director pregunta a los espectadores sobre los posibles significados de la imagen que queda, ahora solitaria. El director invita al actor que lo desee a entrar en la imagen en otra posición -el primero continúa inmóvil, dándole otro significado. Después, sale el primer actor y un cuarto entra en la imagen, siempre saliendo uno, quedándose el otro, entrando el siguiente. Después de esta demostración, todos se juntan en parejas y comienzan con la imagen de un apretón de manos. Un actor se retira de la imagen, dejando al otro con la mano tendida. Ahora, en vez de decir qué piensa que significa esta nueva imagen, el que se ha ido vuelve y completa la imagen, mostrando lo que ve como un posible significado suyo; se coloca en una posición diferente, en una relación diferente con el actor que está con la mano tendida, cambiando el significado de la imagen. Entonces el segundo participante sale de esta nueva imagen, observa y después vuelve a entrar en la imagen y la completa, cambiando el significado otra vez. Y así sucesivamente, uno tras otro, estableciendo un diálogo de imágenes. Como en los ejercicios de modelado, los actores deben pensar con sus cuerpos. No importa si la manera que el actor ha elegido para completar la imagen no tiene un significado literal: lo importante es dejar que el juego transcurra y las ideas fluyan. El director puede añadir uno o más objetos al juego -una silla, por ejemplo, o dos-, y los actores pueden moverlos, siempre que, al hacerlo, no se desplace la imagen del compañero. Variante (de tres) Dos actores se dan la mano, y un tercero, al verlos, decide en qué parte de la imagen entrar. Así, sucesivamente, cada uno de los tres sale, observa lo que queda de la imagen -otra imagen con otro significado- y vuelve a entrar, completando la ronda. Variante (Hamlet) a) Cada actor decide quién es e intenta descubrir quién es el otro, b) uno de los dos es el protagonista, y el otro es, cada vez, un personaje diferente: en este caso, el mismo protagonista esculpe los dos cuerpos.",
+                    "etiquetas": ["Caldeamiento", "Específico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 16,
+                    "nombre": "Juego de pelota",
+                    "descripcion": "Fútbol, baloncesto, voleibol, etc. Dos equipos jugarán un partido sin usar ninguna pelota, sino actuando como si tuviesen una. El director -arbitro del partido- debe observar si el movimiento imaginario de la pelota coincide con los movimientos de los actores, corrigiéndolos si fuese necesario. Se puede utilizar calquier tipo de deporte colectivo para este tipo de ejercicio: ping-pong, tenis, etc.",
+                    "etiquetas": ["Caldeamiento", "Inespecífico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 15,
+                    "nombre": "Descubrir la diferencia",
+                    "descripcion": "Dos filas, cada actor frente a otro, observándose; se vuelven de espaldas y alteran un detalle determinado en sí mismos o en la ropa; vuelven a mirarse y cada uno debe descubrir la diferencia en el otro.",
+                    "etiquetas": ["Caldeamiento", "Inespecífico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 14,
+                    "nombre": "Contar la propia historia",
+                    "descripcion": "Un actor cuenta cualquier cosa que realmente le haya ocurrido; al mismo tiempo, sus compañeros ilustran la historia que va desarrollando. El actor que narra no puede intervenir ni hacer correcciones durante el ejercicio. Al final se discutirán las diferencias. El narrador tendrá la oportunidad de comparar sus reacciones con las de sus compañeros.",
+                    "etiquetas": ["Caldeamiento", "Específico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 13,
+                    "nombre": "Teléfono francés",
+                    "descripcion": "Un círculo de personas que se miran. La número 1 está mirando a la número 4, que está mirando a la número 7, que está mirando a la número 10, y así sucesivamente. La 2 está mirando a la 5, que está mirando a la 8, que está mirando a la 11, y así sucesivamente. La 3 está mirando a la 6, que está mirando a la 9, que está mirando a la 12, y así sucesivamente. No se pueden formar grupos dentro del círculo; por ejemplo, si son veinte, no se puede contar sólo hasta dos, porque se formarán dos círculos de diez. El objetivo del ejercicio es no hacer nada. Se mira atentamente a su modelo sin hacer nada. Pero en cuanto nuestro modelo se mueva un poco, nosotros nos movemos también y un poco más que él. Como hay alguien que también nos mira, y para quien somos el modelo, él se moverá un poco más que nosotros y un poco más aún que nuestro modelo. Es una escalada. A partir de la instrucción de no hacer nada, de quedarse inmóvil, llegamos a todos los extremos.",
+                    "etiquetas": ["Caldeamiento", "Inespecífico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 12,
+                    "nombre": "Concentración",
+                    "descripcion": "Estableciendo un círculo de atención, los actores deben descubrir el mayor número posible de colores, matices, formas, pormenores dentro de ese pequeño círculo. Puede tratarse de una mesa, parte de un mueble, la pared, el rostro de un compañero, una mano, un papel en blanco, etc. Lo importante es que el actor -que como todo ser humano está habituado a sintetizarla realidad, a estructurarla de forma simplificada para poder moverse en ella (enloqueceríamos si percibiésemos y registrásemos en nuestra conciencia la infinita variedad de colores y formas que nuestro ojo es capaz de percibir)-, lo importante, decía, es que el actor se ejercite en analizarla, realidad y descubrirla en sus mínimos detalles. Este ejercicio puede hacerse con un actor frente a otro. Cada uno informa al que tiene enfrente de toda la variedad que ha llegado a descubrir en su rostro. Lo mismo podrá hacerse con sonidos.",
+                    "etiquetas": ["Caldeamiento", "Inespecífico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                },
+                {
+                    "Id": 11,
+                    "nombre": "Juego de las profesiones",
+                    "descripcion": "Con nombres de profesiones en los papeles, dos veces cada profesión, oficio u ocupación: obrero metalúrgico, dentista, sacerdote, sargento, chófer, pugilista, actor, prostituta, etc., sólo aquellas profesiones que los actores conozcan. Cada actor saca un papel. Todos comienzan a improvisar la profesión que les ha tocado, sin hablar de ella, sólo mostrando la visión que tienen de esos profesionales. El director dará indicaciones, como por ejemplo: 1. Los profesionales están caminando por la calle; 2. Van a comer (bocadillos, fast food, restaurante elegante, etc.); 3. Asisten a una inauguración en el Museo de Arte Moderno (¿a comprar una obra, exhibirse, disfrutar de los cuadros?); 5. Se dirigen a un espectáculo de boxeo o a un partido de fútbol (¿cómo se comportan?); y, finalmente, 6. Van a trabajar: en este momento, los actores muestran todos los rituales del trabajo de cada uno y comienzan a intentar identificar al compañero de la misma profesión; cuando eso ocurre, la pareja sale del juego. En la segunda parte del juego, en círculo, las parejas se miran trabajando y forman familias de profesiones, es decir, profesiones cuyos rituales se asemejen. Después, cada familia pasa delante del grupo que debe intentar descubrir, primero, de qué profesiones se trata, y, segundo, por qué han formado una familia. Variante (Hamlet) Juego de los personajes de la obra (Hamlet o cualquier otra).",
+                    "etiquetas": ["Caldeamiento", "Específico"],
+                    "referencia": "Juegos para actores y no actores, Augusto Boal"
+                }

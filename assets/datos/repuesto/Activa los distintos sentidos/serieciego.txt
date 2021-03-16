@@ -1,0 +1,161 @@
+{
+                "Id": 58,
+                "nombre": "El punto, el abrazo y el apretón de manos",
+                "descripcion": "Se pide que cada participante mire fijamente algún punto de la sala -una ventana, una marca en la pared, etc.- y luego cierre los ojos e intente caminar hasta ese punto. Si, en su recorrido, tropieza con otro actor y se desvía de su trayecto, debe corregirlo. Después de un tiempo, el director dirá que abran los ojos y que se localicen en la sala: ¿quién está cerca del punto que miró? ¿Quién está lejos? Se intenta una segunda vez: los que han logrado acercarse o incluso tocar el punto deben elegir otro punto más distante, y los que se han quedado lejos, uno más cercano A continuación, los actores forman parejas y se abrazan. Cierran los ojos y se separan, caminando hacia atrás, hasta encontrar un obstáculo (la pared probablemente) o después de un determinado número de pasos. Deben entonces volver e intentar abrazar nuevamente al mismo compañero. Repetir este ejercicio por lo menos dos veces, cambiando de compañero. Finalmente, la versión más difícil. En parejas, los actores se dan la mano, cierran los ojos, se alejan manteniendo las manos extendidas en la misma posición, caminan hacia atrás hasta encontrar un obstáculo, vuelven e intentan darse de nuevo un apretón de manos.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 57,
+                "nombre": "Bosque de sonidos",
+                "descripcion": "El grupo se divide en parejas: un miembro será el ciego; otro, el lazarillo. Este último emite sonidos de un animal -gato, perro, pájaro o cualquier otro-, mientras su pareja escucha con atención. Entonces los ciegos cierran los ojos, y los lazarillos, al mismo tiempo, comienzan a emitir sus sonidos, que deben ser seguidos por los ciegos. Cuando el lazarillo deja de emitir sonidos, el ciego debe detenerse. El lazarillo es responsable de la seguridad del compañero (ciego) y debe dejar de emitir sonidos si el ciego está a punto de tropezar con otro o golpearse con algún objeto. El lazarillo cambiará constantemente de posición. Si el ciego hace bien su papel, si sigue los sonidos con facilidad, el guía debe mantenerse lo más distante posible, con la voz casi inaudible. El ciego debe concentrarse solamente en su sonido, aunque a su lado haya muchos otros. El ejercicio tiene como objetivo despertar y estimular la función selectiva del oído. Variante. (Julián) Círculo. Los actores son numerados, 1 o 2, en secuencias: 1, 2,o i 2, 1, 2 Cada actor número 1 se coloca frente a frente con el actor número 2 situado a su derecha y produce un sonido que el ,número 2 debe reconocer. Vuelve a su lugar. Cada actor número 2 se coloca frente a frente con el actor número 1 situado a su derecha, es decir, formando una pareja diferente de la primera y produciendo un sonido que el compañero debe identificar. De vuelta a sus posiciones con los ojos cerrados, los actores se dan las manos e intentan sentir, para posteriormente reconocer, las manos de los compañeros a la derecha y a la izquierda. El director da la señal y el círculo se rompe: los actores realizan movimientos en zigzag para mezclarse entre sí. A otra señal del director,todos emiten el sonido que habían creado delante del compañero a su derecha, intentan escuchar el sonido hecho por el compañero procedente de la izquierda. Cuando reconoce el sonido de su lazarillo, el ciego se aferra a su mano, comenzando a reconstruir el círculo original. Los actores sólo abrirán los ojos cuando sus dos manos estén ocupadas: han descubierto y han sido descubiertos.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 56,
+                "nombre": "Viaje imaginario",
+                "descripcion": "En parejas. El lazarillo debe llevar al ciego a través de una serie de obstáculos reales o imaginarios, como si los dos estuviesen en un bosque, en un supermercado, en la Luna, en el desierto del sahara u otro escenario real o imaginario que el lazarillo tenga en mente. Como en todos los ejercicios de esta naturaleza, está prohibido hablar; toda información debe transmitirse a través contacto físico y de los sonidos. Siempre que sea posible, el lazarillo debe hacer los mismos movimientos que el ciego, al paginar su propia historia. El lazarillo debe colocar obstáculos por toda la sala: sillas, mesas todo lo que encuentre disponible: a veces los obstáculos serán reales, otras veces imaginarios. El ciego debe intentar imaginar dónde está. Por ejemplo: ¿en un río? ¿Un río con cocodrilos? ¿Piedras? El lazarillo puede usar el contacto físico, la respiración o sonidos, como forma de guiar; el ciego, a su vez, no podrá hacer ningún movimiento que no se le haya ordenado o sugerido. Después de unos minutos, el ejercicio acaba y el ciego relata al lazarillo en qué parte de la sala cree que han estado, quién estaba cerca de ellos, etc. En resumen, debe dar las informaciones reales que ha percibido con sus sentidos, excepto la vista. Después de las informaciones objetivas, los ciegos explican adonde creen haber viajado: cuentan el viaje imaginario. Los lazarillos cuentan entonces sus historias y se comparan unas con otras.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 55,
+                "nombre": "Fila de ciegos",
+                "descripcion": "Dos filas, frente a frente. Los actores de una de las filas deben cerrar los ojos y, con las manos, examinar el rostro y las manos de los actores que tienen enfrente, en la otra fila. Éstos, a continuación, se dispersarán por la sala, y los ciegos deberán encontrar a la persona que tenían delante, tocándole manos y mejillas. Variante Un ejercicio de Teatro Imagen. Las personas que estén con los ojos abiertos deben jugar a las estatuas, individualmente. Los actores de la fila de los ciegos deben tocar, durante algunos minutos, los contornos de las estatuas de los actores correspondientes a ellos, en la otra fila. Después, volver a sus posiciones y reproducir las estatuas con sus propios cuerpos: imagen especular, imagen del espejo. A continuación abren los ojos y comparan las dos estatuas.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 54,
+                "nombre": "El imán afectivo (negativo y positivo)",
+                "descripcion": "Los actores caminarán por la sala con los ojos cerrados durante algunos minutos, tratando de no tropezar unos con otros. Es bueno que todos estén con los brazos cruzados, con las manos cubriéndose los codos, para que las personas más bajas no reciban codazos en los ojos. Cuanto más despacio caminen, menos daño se harán. En esa primera parte del juego, cuando dos personas tropiecen, deberán separarse inmediatamente: domina el polo negativo. Deben moverse por la sala evitando siempre tocar a los demás; al no poder ver, los actores comienzan a percibir el mundo exterior a través de los otros sentidos. Después de unos minutos, el director anunciará a los participantes que el imán está en positivo. A partir de este momento, las personas que se toquen deberán quedarse pegadas unas a otras durante un momento. Esto es muy difícil, porque los participantes no pueden dejar de moverse; sus pies deben seguir avanzando y, algunas veces, al tener que andar pegados, es necesario que anden de lado o de espaldas. Está prohibido tocarse con las manos, es mejor que usen otras partes del cuerpo. Si una persona se siente cómoda, podrá quedarse pegada a la otra el tiempo que quiera; de lo contrario, tiene derecho a seguir buscando. La persona que ha sido abandonada tiene derecho a insistir, pero sólo una vez; el objetivo del juego no es cazar a una persona en especial. Puede quedarse pegada a una, dos o mas participantes. Finalmente, el director dará la señal para detenerse. Todos lo hacen donde están y cada uno intentará encontrar un rostro, sólo uno, con las manos. Entonces comienza la parte más bonita del juego: cada persona intentará traducir las sensaciones, en una imagen. En otras palabras, tocando el rostro del o ella, intentarán imaginar cómo es ese rostro, desde su forma, generando los menores detalles de la fisonomía. Ese proceso de traducción es muy delicado y también muy placentero. Las personas pueden tocar el rostro y la cabeza, pero no el resto del cuerpo Después de unos minutos, el director ordenará que abran los ojos y comparen la imagen construida mentalmente con la que tienen delante.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 53,
+                "nombre": "Múltiple escultura sueca",
+                "descripcion": "La mitad del grupo está formada por ciegos y la otra mitad por lazarillos. Cada lazarillo pronuncia el nombre de su ciego, que debe intentar seguirlo. El grupo de los lazarillos cambia frecuentemente de posición hasta un determinado momento, cuando debe parar y seguir llamando a sus ciegos, muy despacio. Cuando los ciegos estén cerca del grupo de los lazarillos, éstos los cogerán de la mano y modelarán sus cuerpos en una escultura compleja, en la que todos se toquen, es decir, una única escultura hecha de diferentes cuerpos. Después, los lazarillos formarán la misma escultura con sus propios cuerpos. Como la reproducción tiene que ser exactamente igual al original, cada lazarillo tiene que ocupar la misma posición en la que colocó a su ciego. El director llamará a los ciegos y los llevará, uno a uno, hasta la escultura de los lazarillos. Cada ciego deberá intentar descubrir cual ha sido el suyo, tocando los diferentes cuerpos. Si un ciego reconoce a su lazarillo, deberá decir su propio nombre. Si acierta el lazarillo asentirá y podrá salir del juego y abrir los ojos. Las posturas de esos lazarillos sólo se modificará cuando el último ciego haya descubierto a su lazarillo.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 52,
+                "nombre": "Vampiro de Estrasburgo",
+                "descripcion": "Todos caminan por la sala sin tropezarse, con los ojos cerrados y las manos cubriéndose los codos, como protección. El director toca el cuello de alguien, que pasa a ser el primer «vampiro de Estrasburgo»: sus brazos se estirarán hacia delante, dará un grito de horror y a partir de ese momento buscará un cuello para chupar su sangre. El grito que dé permitirá a los demás saber dónde está el vampiro e intentar escapar. El primer vampiro encontrará otro cuello y repetirá el gesto del director: un suave toque en el cuello, con las dos manos. El segundo «vampiro» dará igualmente un grito de horror, estirando los brazos, y entonces serán dos vampiros, después tres, cuatro, etc. Puede ocurrir que un vampiro «ataque» a otro vampiro; en ese caso, el segundo se rehumanizará y dará un grito de placer; esto indica que alguien muy cerca se ha rehumanizado, pero también que hay un vampiro próximo. Deben evitarse entonces las regiones más infestadas de vampiros. Es curioso (y bastante comprensible) que los participantes encuentren cierto alivio en ser vampirizados, puesto que a partir de entonces, en lugar de huir, comenzarán a perseguir. Es el mismo mecanismo del oprimido que se vuelve opresor. Y mucho más rico que eso. Por un lado, el oprimido (actor) se convierte en opresor (vampiro): escapa a su opresión, a su dolor, a su angustia. Deja de ser víctima y se convierte en verdugo. Por otro lado, desarrolla en sí el mecanismo de lucha: siente que toda situación opresiva puede detenerse, romperse. Las dos situaciones van juntas.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 51,
+                "nombre": "Coche ciego",
+                "descripcion": "Una persona detrás de otra. La que va delante es el coche ciego. Por detrás, el conductor guiará los movimientos del coche ciego ,presionando con los dedos en medio de la espalda (el coche avanza en línea recta), en el hombro izquierdo (gira a la izquierda; cuanto más cerca del hombro, más cerrada será la curva), el hombro derecho (lo mismo, a la derecha), o con una mano en el cuello (marcha atrás). Como muchos coches ciegos circularán al mismo tiempo, es necesario evitar colisiones. El coche debe parar cuando el conductor deje de tocarlo. La velocidad será controlada por la mayor o menor presión de los dedos en la espalda.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 50,
+                "nombre": "Descubrir el objeto",
+                "descripcion": "Con los ojos tapados y las manos hacia atrás, utilizando todas las demás partes del cuerpo, el actor tocará e intentará descubrir cuál es el objeto que se le presenta: silla, lapicero, vaso, papel, flor, etc. Este ejercicio estimula intensamente la sensibilidad de todas las partes del cuerpo que se relacionan con el objeto. Variante Descubrir el rostro de los otros: ¿quién es?",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 49,
+                "nombre": "Olor de las manos",
+                "descripcion": "Una fila de actores se acerca a un ciego (actor con los ojos cerrados), cada uno le da una de las manos a oler, mientras le dice su nombre. Una vez que todos han pasado (cinco actores, por ejemplo), volverán en un orden diferente y el ciego deberá decir el nombre de la persona, intentando reconocer el olor de sus manos. Variante. Lo mismo con el rostro, que el ciego tocará para después reconocer, siendo diferente el orden en el que los rostros repiten el contacto. También se puede hacer lo mismo con las manos.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 48,
+                "nombre": "Hacer un ocho",
+                "descripcion": "Dos actores se colocarán a una distancia de dos metros uno de otro. En fila, con los ojos cerrados, los demás actores intentarán hacer un ocho alrededor de los dos primeros. Variante Slalom (como en el esquí). Una o más filas, de cuatro o cinco actores cada una. Entre ellos, los demás harán el slalom, con los ojos cerrados, caminando.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 47,
+                "nombre": "Guardameta",
+                "descripcion": "Un juego de confianza. Seis actores de pie, juntos, no muy alejados, formarán la portería. Otro actor, unos pasos por delante, será el guardameta. Frente a ellos, a unos seis metros de distancia, estarán los demás actores. Uno a uno mirarán al guardameta con atención, cerrarán los ojos y saldrán corriendo en su dirección lo más rápidamente que puedan. El guardameta debe sujetarlos por la cintura. Cuando un actor pierde el rumbo del guardameta, uno de los seis actores de la portería deberá sujetarlo. Es importante no disminuir el ritmo al acercarse al guardameta: ésa es la prueba de confianza.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 46,
+                "nombre": "Sentarse en la pierna de otro",
+                "descripcion": "Un participante, con los ojos abiertos, se arrodilla para que otro, con los ojos cerrados, se siente en su pierna. El director cuenta hasta siete; el ciego se levanta y da siete pasos hacia delante; después, el director cuenta hacia atrás, de siete a uno, y el actor debe volver, de espaldas, y sentarse nuevamente en la misma rodilla. El actor arrodillado debe impedir que el compañero se caiga, si se hubiese desviado en su trayectoria.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 45,
+                "nombre": "Dibujar el propio cuerpo",
+                "descripcion": "Los actores se tumban cómodamente en el suelo, cierran los ojos y piensan en su cuerpo como una totalidad, y en cada una de sus partes: dedos, cabeza, boca, lengua, pies, sexo, ojos, pelo, ombligo, piernas, cuello, codos, hombros, vértebras, etc. Deben mover la parte en la que estén pensando, cuando eso sea posible. Después de unos minutos de concentración, el director dará a cada actor una hoja de papel en blanco (todas del mismo tamaño) y un lápiz o bolígrafo (del mismo color). Pedirá que cada uno dibuje su propio cuerpo, manteniendo los ojos bien cerrados, y que firme con su nombre en el dorso del dibujo. Hecho esto, recogerá los dibujos y los colocará en el suelo, en cualquier orden, y sólo entonces los actores podrán ver su obra. El director preguntará qué impresiona más en los dibujos: ¿los cuerpos están desnudos o vestidos? ¿Acostados o de pie? ¿Descansando o trabajando? ¿Relacionados con otros objetos o aislados? ¿Con detalles importantes como los ojos y el sexo, o solamente en líneas generales? Finalmente, los invitará a identificar sus propios dibujos. Este ejercicio sensibiliza bastante al grupo. Primero, porque cada uno tendrá que pensar en su propio cuerpo, en cada parte de él; después, porque tendrán que reproducir, dibujándolo, lo que han sentido; por último, porque después del ejercicio comenzarán a prestarse más atención a sí mismos, a sus movimientos, a la manera de sentarse, de dirigirse a los demás, etc. El ejercicio hace que los actores tomen conciencia de que, ante todo, somos un cuerpo. Si son capaces de tener las ideas abstractas más profundas y crear las cosas más maravillosas, es necesario tener, ante todo, un cuerpo: ¡antes de tener un nombre, habitamos un cuerpo! Y raramente pensamos en nuestro cuerpo como fuente fundamental de todos los placeres y todos los dolores, de todo conocimiento y toda búsqueda, de todo. Normalmente, hacemos este ejercicio antes del «Juego de las máscaras de los propios actores». En este caso, se pide que cada uno diga por qué ha reconocido su dibujo, y lo que diga será una información valiosa para el actor que, más adelante, lo tendrá como modelo para el juego mencionado de las máscaras.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 44,
+                "nombre": "Arcilla para modelar",
+                "descripcion": "Es parecido al anterior, pero en esta versión se utiliza arcilla para modelar en vez de papel y lápiz. Es diferente, porque las manos pueden rehacer los detalles ya modelados. En el papel, si uno ya ha acabado el dibujo de la cabeza, por ejemplo, podrá recordar lo que ha hecho, pero no podrá rehacer el dibujo. Con la arcilla, siempre podrá volver a lo que había hecho.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 43,
+                "nombre": "Tocar el color",
+                "descripcion": "El director dará a un actor (ciego) cinco prendas de vestuario del mismo tipo (cinco calcetines, cinco camisas, etc.), pero hechas de materiales diferentes y de colores distintos. El actor deberá examinar cada una de esas prendas e intentar reconocer los colores correspondientes.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 42,
+                "nombre": "Ciego con bomba",
+                "descripcion": "Algunos actores con los ojos vendados, rodeados por los demás, deberán imaginar que sostienen una bomba que explotará si llegan a tocar a alguien durante más de un segundo. A cada contacto, deberán alejarse lo máximo posible. Este ejercicio produce un increíble desarrollo de todos los sentidos.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 41,
+                "nombre": "Canto de la sirena",
+                "descripcion": "Difícil y delicado. Los actores piensan en una opresión que realmente hayan vivido, cierran los ojos y se juntan en grupo en el centro de la sala. Aquel que quiera comenzar emitirá un sonido (un grito, un gemido, un llanto o lamento), que debe ser la traducción sonora de la opresión en la que haya pensado. El director lo llevará de la mano hacia uno de los rincones de la sala. Un segundo actor hará lo mismo, pensando en una de sus propias opresiones. Después un tercero y un cuarto, uno a uno, con un grito específico y siempre diferente. Los cuatro primeros actores deben emitir entonces sus gritos al mismo tiempo. Los que permanezcan en el centro, siempre con los ojos cerrados, deberán escuchar atentamente a los cuatro primeros actores y elegir cuál de los gritos se asemeja a su propia opresión; así, se formarán cuatro grupos. Entonces todos abrirán los ojos y, en cada grupo, cada actor contará a los demás la opresión que tenía en mente, el episodio que ha imaginado. Curiosamente, se verá que dentro de cada grupo las historias tratarán siempre el mismo tipo de opresión o tema.",
+                "etiquetas": ["Caldeamiento", "Específico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 40,
+                "nombre": "Encontrar la espalda adecuada",
+                "descripcion": "Los actores andarán por la sala, con los ojos cerrados, uniendo de vez en cuando su espalda a la de un compañero y apretándose, moviéndose, buscando la espalda más adecuada para cada uno. Cuando la encuentren, manteniendo siempre los ojos cerrados, harán un contacto semejante al de un masaje.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 39,
+                "nombre": "¿Quién ha dicho «Ah»?",
+                "descripcion": "Todos, con los ojos cerrados, caminan por la sala. El director (con un toque) designará a una persona que deberá emitir un «Ah», de la manera que quiera. Los demás intentarán descubrir quién ha sido y decir su nombre.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 38,
+                "nombre": "mano melódica",
+                "descripcion": "Sentados en círculo, cogidos de la mano. La mano derecha por debajo y la izquierda por encima. Un actor iniciará, con la mano derecha, un ritmo, que será recibido por la mano izquierda del actor que está a su derecha. Éste, a su vez, también pasará, con la mano derecha, el ritmo que ha recibido a la mano izquierda del actor situado a su derecha, y así sucesivamente. De esa forma, cada actor deberá pasar con la mano derecha el movimiento rítmico y melódico que ha recibido con la mano izquierda. Después el director dirá «Cabeza», y todos incluirán sus cabezas en el movimiento; después «Tórax»; después «Cintura», «Pierna», hasta que todo el cuerpo esté comprometido con el ritmo. Por fin, el director pedirá que emitan un sonido compatible con sus movimientos. Variante. El mismo ejercicio, pero esta vez la mano que controla se coloca sobre la mano controlada, y no debajo de ella: resulta más difícil y más delicado, porque debe atraer a la otra mano y no sólo levantarla mecánicamente.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 37,
+                "nombre": "La mano reencontrada o perdida",
+                "descripcion": "Con los ojos cerrados, los actores circulan por la sala, tocándose las manos, hasta que se formen parejas que se complazcan en tocarse las manos. Juegan con las manos. Se separan a continuación, andan por la sala, se mezclan, abren los ojos, forman un círculo, tienden las manos hacia el centro del círculo; con la mirada, intentan descubrir cuáles son las manos con las que jugaban.",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            },
+            {
+                "Id": 36,
+                "nombre": "dragón de Trou Balligan",
+                "descripcion": "Se cuenta que en la Edad Media, en Normandía, Francia, había una princesa muy hermosa, riquísima heredera de un pueblo llamado Trou Balligan. Allí vivía también un dragón feroz y malvado, que devoraba a los jóvenes y, sobre todo, a las jóvenes más bellas. La juventud de Trou Balligan estaba a punto de desaparecer completamente, cuando se supo que el dragón había propuesto un trato: si la princesa estuviese dispuesta a entregarse a la voracidad del dragón, éste abandonaría el feudo y se iría a sembrar el terror en otras regiones del país. Al enterarse de esa propuesta indecorosa, la princesa, queriendo salvar a sus súbditos, aceptó magnánima el sacrificio de su vida: sería devorada por el dragón. Sus subditos, conmovidos, rechazaron la oferta, pero la princesa decidió actuar por su cuenta, una bonita noche lluviosa, y salvar a su pueblo, así que se dirigió a la gruta de la bestia para entregarse por propia voluntad. El dragón, feliz, fue a recibirla a la puerta, como correspondía a una princesa, sobre todo a ésta, tan digna y generosa. Antes de devorarla, el famélico monstruo le pidió que se desnudase, pues tenía miedo de atragantarse con tantas sedas, pendientes, collares y oropeles. Cuando la vio toda desnuda, sus ojos se le salieron literalmente de las órbitas. La joven era de una belleza tan esplendorosa, su cuerpo tan perfecto, que él quedó momentáneamente ciego, con los globos oculares colgados de los nervios ópticos, como ojos de cangrejo. Considerando que uno de los mayores placeres de la gastronomía consiste precisamente en admirar el plato antes de comerlo, el dragón decidió postergar el banquete hasta que sus ojos volviesen al lugar debido. Se supo entonces en el pueblo del gesto heroico de la hermosa y estoica princesa, y los campesinos, sus súbditos, decidieron salvarla. Fueron a la gruta del dragón y...y aquí comienza el ejercicio: la princesa es atada a una silla con una buena cantidad de prendas de ropa (jerseys, camisas, pantalones, lo que se tenga a mano); el dragón, con los ojos vendados, intenta tocar a los campesinos, apartándolos de su prisionera; ellos deben evitar que los toque y esforzarse por liberar a la princesa. Si el dragón llega a tocar a los campesinos, éstos mueren y abandonan el juego, que puede terminar de dos maneras: porque ya no hay «salvadores» o, por el contrario, por que la hermosa princesa ha sido liberada. Este ejercicio es más breve que su explicación. Si resulta demasiado fácil, puede practicarse con dos dragones en lugar de uno: al fin y al cabo, como los dragones no existen...",
+                "etiquetas": ["Caldeamiento", "Inespecífico"],
+                "referencia": "Juegos para actores y no actores, Augusto Boal"
+            }

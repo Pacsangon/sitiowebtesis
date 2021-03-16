@@ -1,0 +1,93 @@
+"segundaserie": [
+         {
+             "Id": 104,
+             "nombre": "Carrera en cámara lenta",
+             "descripcion": "Gana el último en llegar. Una vez iniciada la carrera, los actores no podrán interrumpir sus movimientos, que deberán ejecutarse lo más lentamente posible. Cada corredor deberá estirar lo máximo que pueda las piernas a cada paso. El pie que adelante a la otra pierna debe pasar siempre por encima de la altura de la rodilla. Hace falta que el actor, al avanzar, estire bien su cuerpo, porque con ese movimiento el pie romperá el equilibrio y, a cada centímetro que camine, se organizará una nueva estructura muscular, instintivamente, activando ciertos músculos dormidos. Cuando el pie llegue al suelo, debe oírse el ruido. Inmediatamente se levantará el otro pie. Este ejercicio, que exige un gran equilibrio, estimula todos los músculos del cuerpo. Otra regla: los dos pies jamás podrán estar al mismo tiempo en el suelo. En cuanto el pie derecho se haya apoyado, el pie izquierdo debe subir, y viceversa. Siempre un solo pie en el suelo.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 103,
+             "nombre": "El ángulo recto",
+             "descripcion": "Los actores se sientan en el suelo, con los brazos estirados paralelos a su superficie y las piernas también estiradas. Comienzan a caminar con las nalgas, a la derecha y después a la izquierda, como si fuesen los pies. El tamaño de cada paso debe ser el mayor posible, pero no es necesario caminar rápidamente, pues no se trata de una carrera. Después de recorrer cierta distancia, todos deben retroceder, caminando sobre sus propios pasos, siempre con las nalgas. Las piernas y los brazos deben estar siempre estirados hacia delante, en ángulo recto. Es preciso mantener la espalda bien recta, formando un ángulo de noventa gra- dos con los brazos y las piernas.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 102,
+             "nombre": "El cangrejo",
+             "descripcion": "Las dos manos y los dos pies en el suelo. Se trata de andar como los cangrejos, hacia la izquierda y hacia la derecha. Nunca hacia delante ni hacia atrás.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 101,
+             "nombre": "Piernas cruzadas",
+             "descripcion": "De pie, lado a lado, dos actores se sujetan por la cintura, apretándose fuertemente, y cruzan las piernas, la derecha de uno con la izquierda del otro, levantándolas para que no toquen el suelo. Después empiezan a andar teniendo en cuenta que cada uno debe considerar el cuerpo del otro como su propia pierna. Atención, la idea es andar y no saltar. La pierna (el actor) no ayuda, es el otro quien debe hacer todo el esfuerzo para que ella, es decir, su compañero, avance.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 100,
+             "nombre": "Mono",
+             "descripcion": "Caminar hacia delante con las manos siempre tocando el suelo, con la cabeza trazando una línea horizontal con respecto al suelo, como los monos, que se desplazan armoniosamente. Saltar obstáculos, armoniosamente.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 99,
+             "nombre": "Andar a cuatro patas",
+             "descripcion": "El actor anda a cuatro patas, hacia delante y hacia atrás.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 98,
+             "nombre": "Paso de camello",
+             "descripcion": "Pie derecho con mano derecha. Pie izquierdo con mano izquierda. El camello avanza primero el lado izquierdo, después el lado derecho.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 97,
+             "nombre": "Paso de elefante",
+             "descripcion": "Como el ejercicio: paso de camello, sólo que al contrario: pie derecho con mano izquierda, pie izquierdo con mano derecha. Es así como anda el elefante.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 96,
+             "nombre": "Paso de canguro",
+             "descripcion": "El actor se agacha y se coge los tobillos con las manos. Anda hacia delante, saltando como un canguro.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 95,
+             "nombre": "Inclinados unos sobre otros",
+             "descripcion": "Dos actores, lado a lado, acercan sus hombros (el hombro izquierdo de uno contra el hombro derecho del otro) e intentan caminar así inclinados, cada cual poniendo los pies lo más lejos posible del otro. Variante Lo mismo con dos actores, formando una unidad, de cada lado (cuatro en total). Variante Dos actores de espaldas; cuatro actores de espaldas, equilibrándose en sus cuellos.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 94,
+             "nombre": "Carrera de sacos",
+             "descripcion": "Los pies juntos o dentro de un saco. Saltando primero hacia delante, después hacia atrás, después de lado.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 93,
+             "nombre": "Carretilla",
+             "descripcion": "Como hacen los niños: un actor en el suelo se apoya sobre las manos y el otro lo sujeta por los pies. Uno camina con las manos y el otro lo sigue, como quien conduce una carretilla.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         },
+         {
+             "Id": 92,
+             "nombre": "Como gustéis",
+             "descripcion": "Intentando modificar la forma habitual de andar, incluso el ritmo, y variando muchas veces durante el ejercicio.",
+             "etiquetas": ["Segunda serie: caminatas"],
+             "referencia": "Juegos para actores y no actores, Augusto Boal"
+         }
+     ]

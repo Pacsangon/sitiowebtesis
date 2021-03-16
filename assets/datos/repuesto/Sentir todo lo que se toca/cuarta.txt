@@ -1,0 +1,41 @@
+{
+		"Id": 90,
+		"nombre": "Nadie con nadie (estilo Quebec)",
+		"descripcion": "En parejas, con una persona que queda siempre fuera. Esa persona, el líder, indicará en voz alta las partes del cuerpo con las que los participantes deberán tocarse; por ejemplo, cabeza con cabeza; pie derecho con codo izquierdo (el pie de una persona debe tocar el codo de la otra, y viceversa, al mismo tiempo, si fuese posible); oreja izquierda en el ombligo, etc. Los contactos corporales son acumulativos y no se deshacen hasta que se haga imposible obedecer las nuevas instrucciones. Los actores pueden hacer los contactos sentados, de pie, tumbados, etc. Cuando resulte imposible continuar, el líder dirá nadie con nadie, y todos buscarán nuevas parejas; y un nuevo líder (el que quede sin compañero) deberá dar continuidad al juego.",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},
+	{
+		"Id": 91,
+		"nombre": "Oso de Poitiers",
+		"descripcion": "Se elige un participante para que sea el oso de Poitiers (ciudad francesa donde se practica este juego). Da la espalda a los demás, que son los leñadores. Éstos deben representar con mímica la acción de trabajar. El oso, al lanzar un fuerte rugido, hace que los leñadores caigan al suelo o se queden inmóviles incluso de pie, sin hacer el menor movimiento, totalmente paralizados. El oso se acercará a cada uno de ellos, rugirá cuanto quiera, podrá tocarlos, hacerles cosquillas, empujarlos, todo lo que pueda para lograr que se muevan, se rían, obligándolos a mostrar que están vivos. Si eso ocurre, el leñador se transformará en oso también, y los dos osos harán lo mismo con los otros leñadores, que seguirán intentando no moverse. Luego tres, cuatro osos, etc. Este ejercicio-juego es muy curioso, porque produce el efecto Vacíamente contrario al que sería su objetivo. El principio es: siel leñador adormece sus sentidos, si consigue no sentir nada, no ver ni oír nada, si se finge muerto, el oso no lo atacará, porque los osos no devoran a los muertos. La instrucción «no sentir nada» provoca exactamente la reacción opuesta, y todos los sentidos agudizan su actividad. Se siente más, se escucha mejor, se ve lo que no se veía, se huele lo que no se olía: sólo queda fuera el gusto. ¡El miedo nos hace hipersensibles!",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},{
+		"Id": 86,
+		"nombre": "Buenos días",
+		"descripcion": "Juego especialmente útil para iniciar espectáculos de Teatro Foro y animar al público: cada persona debe dar los buenos días o las buenas noches a otra y decir su nombre, no pudiendo soltar la mano de esa primera persona antes de estrechar la de otra, darle los buenos días o las buenas noches, y así sucesivamente, formando redes de apretones de manos.",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},
+	{
+		"Id": 87,
+		"nombre": "Fútbol americano",
+		"descripcion": "Todos los actores se apoyan en una pared, menos uno, que queda aparte, frente al grupo. El director inicia el juego, y todos deben cruzar la sala y llegar a la pared opuesta. El actor que está aparte intenta agarrar a cualquiera de los demás actores. A continuación, cualquiera de los dos, tanto él como su prisionero, ahora transformado en apresador, deben capturar a otro. De esa forma, cuatro actores deberán capturar a otros cuatro, después a ocho, después a dieciséis, etc. Sólo se puede apresar a un jugador cada vez. Variante Lo mismo, con la diferencia de que el actor que está fuera puede coger a los otros simplemente rozándolos y se permite que capture a varios compañeros al mismo tiempo. Esta variante es menos violenta. Variante Igual a la anterior, sólo que el actor que está aparte tiene las manos atadas. Es la más difícil.",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},
+	{
+		"Id": 88,
+		"nombre": "Baile con manzana",
+		"descripcion": "Dos compañeros bailan con una manzana sostenida entre las frentes de ambos y deben evitar que caiga.",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},
+	{
+		"Id": 89,
+		"nombre": "Un, dos, tres, al escondite inglés (en francés: «un, deux, trois, soleil»)",
+		"descripcion": "Juego también muy conocido. Una persona frente a la pared, sin mirar a los otros. Éstos, que están a cierta distancia, se acercan. La persona que esté en la pared canta lento o rápido y a continuación se vuelve hacia quienes se acercan. En ese momento, todos deben quedarse inmóviles, y quien es sorpren- dido andando debe volver al punto de partida. El que toca a la persona que está junto a la pared es el vencedor del juego. (Forma parte de los juegos de salón, pero sirve para unificar al grupo...)",
+		"etiquetas": ["Caldeamiento", "Inespecífico", "juegos  de integración"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	},

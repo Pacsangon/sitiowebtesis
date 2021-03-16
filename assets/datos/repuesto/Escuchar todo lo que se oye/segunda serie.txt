@@ -1,0 +1,14 @@
+{
+            "Id": 75,
+            "nombre": "Orquesta",
+            "descripcion": "Un pequeño grupo de actores monta una orquesta, utilizando cualquier clase de objeto improvisado como instrumento, mientras los otros inventan un baile correspondiente. La música debe ser melódica y cambiar con frecuencia: los actores deben permitir que esa música invada sus cuerpos sin hacer ningún movimiento premeditado: hay que dejarse llevar, naturalmente.",
+            "etiquetas": ["Segunda serie: Melodía"],
+            "referencia": "Juegos para actores y no actores, Augusto Boal"
+        },
+        {
+		"Id": 74,
+		"nombre": "Música y baile",
+		"descripcion": "Algunos ritmos, especialmente los brasileños de origen africano, como la samba, la batucada, la capoeira (sólo con movimientos circulares y muchos andando hacia atrás), son excelentes para estimular todos los músculos del cuerpo. Los actores no deben repetir pasos ya establecidos, sino dejar que sus cuerpos se balanceen. Puede también utilizar una cinta de casete reponiéndola a una velocidad mayor que aquella a la que fue grabada. Es importante que en todos estos ejercicios de calentamiento siempre se comience lentamente. Poco a poco, se aumentará la intensidad del ejercicio. Es importante que la práctica de estos ejercicios sea placentera, el actor debe sentir placer y no dolor al ejecutarlos.",
+		"etiquetas": ["Segunda serie: Melodía"],
+		"referencia": "Juegos para actores y no actores, Augusto Boal"
+	}
